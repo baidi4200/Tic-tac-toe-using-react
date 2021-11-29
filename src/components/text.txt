@@ -1,0 +1,7 @@
+export const Square = ({ value, onClick }) => (
+    //This is JSX dont fool
+    <button onClick={onClick}>
+        {value}
+
+    </button>
+part1: Destructuring and suqaure componet props
